@@ -13,6 +13,10 @@ export const Navbar = () => {
                 <form>
                     <input type="text" placeholder="Search..."/>
                 </form>
+                <div>
+                    <a href="http://">Login</a>
+                    <a href="http://">Register</a>
+
             </div>
         </div>
     )
