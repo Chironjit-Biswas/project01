@@ -10,6 +10,9 @@ export const Navbar = () => {
                     <li><a href="http://">Contact</a></li>
                     <li><a href="http://">About</a></li>
                 </ul>
+                <form>
+                    <input type="text" placeholder="Search..."/>
+                </form>
             </div>
         </div>
     )
